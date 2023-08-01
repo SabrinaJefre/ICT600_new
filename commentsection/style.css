@@ -1,0 +1,36 @@
+
+textarea {
+    width: 850px;
+    height: 80px;
+    background-color: #fff;
+    resize: none
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: #282828;
+    border: none;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    cursor: pointer;
+    margin-bottom: 60px ;
+}
+
+.comment-box {
+    width: 845px;
+    padding: 20px;
+    margin: 4px;
+    background-color: #fff;
+
+}
+
+.comment-box p{
+    border-radius: 4px;
+    font-family:arial;
+    font-size: 14px;
+    line-height: 16px;
+    color: #020202;
+
+}
